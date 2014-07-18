@@ -1,0 +1,5 @@
+/home/adam/Projects/FDE_Solver/FDE_Solver/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/adam/Projects/FDE_Solver/FDE_Solver/bin/Debug/FDE_Solver.exe.mdb
+/home/adam/Projects/FDE_Solver/FDE_Solver/bin/Debug/FDE_Solver.exe
+/home/adam/Projects/FDE_Solver/FDE_Solver/obj/x86/Debug/FDE_Solver.exe
+/home/adam/Projects/FDE_Solver/FDE_Solver/obj/x86/Debug/FDE_Solver.exe.mdb
